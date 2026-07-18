@@ -26,7 +26,7 @@ DAX
 Excel
 
 # Dashboard
-https://github.com/Shivamkumar-7479/E-commerce-sales-project/blob/main/E.commerce%20sales%20power%20BI%20project%20(1).pbix
+https://github.com/Shivamkumar-7479/E-commerce-sales-project/blob/main/E-commerce%20sales%20Dashboard.png
 
 # KPIs
 Total Sales
